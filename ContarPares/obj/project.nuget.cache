@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tazafmXUnxYMO30YTLU7A1jizuDxO8CoMvI2J7qQW2s4S6OoycxrZxBsQFWPE71mTLCG8B5FsJi+8k+PnAdnxQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\leo-s\\Documents\\GitHub\\testeB5S\\ContarPares\\ContarPares.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leo-s\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

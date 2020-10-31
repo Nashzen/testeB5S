@@ -1,0 +1,13 @@
+C:\Users\leo-s\Desktop\B5S\B5S\MediaSimples\bin\Debug\netcoreapp3.1\MediaSimples.exe
+C:\Users\leo-s\Desktop\B5S\B5S\MediaSimples\bin\Debug\netcoreapp3.1\MediaSimples.deps.json
+C:\Users\leo-s\Desktop\B5S\B5S\MediaSimples\bin\Debug\netcoreapp3.1\MediaSimples.runtimeconfig.json
+C:\Users\leo-s\Desktop\B5S\B5S\MediaSimples\bin\Debug\netcoreapp3.1\MediaSimples.runtimeconfig.dev.json
+C:\Users\leo-s\Desktop\B5S\B5S\MediaSimples\bin\Debug\netcoreapp3.1\MediaSimples.dll
+C:\Users\leo-s\Desktop\B5S\B5S\MediaSimples\bin\Debug\netcoreapp3.1\MediaSimples.pdb
+C:\Users\leo-s\Desktop\B5S\B5S\MediaSimples\obj\Debug\netcoreapp3.1\MediaSimples.csprojAssemblyReference.cache
+C:\Users\leo-s\Desktop\B5S\B5S\MediaSimples\obj\Debug\netcoreapp3.1\MediaSimples.AssemblyInfoInputs.cache
+C:\Users\leo-s\Desktop\B5S\B5S\MediaSimples\obj\Debug\netcoreapp3.1\MediaSimples.AssemblyInfo.cs
+C:\Users\leo-s\Desktop\B5S\B5S\MediaSimples\obj\Debug\netcoreapp3.1\MediaSimples.csproj.CoreCompileInputs.cache
+C:\Users\leo-s\Desktop\B5S\B5S\MediaSimples\obj\Debug\netcoreapp3.1\MediaSimples.dll
+C:\Users\leo-s\Desktop\B5S\B5S\MediaSimples\obj\Debug\netcoreapp3.1\MediaSimples.pdb
+C:\Users\leo-s\Desktop\B5S\B5S\MediaSimples\obj\Debug\netcoreapp3.1\MediaSimples.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\leo-s\Desktop\B5S\B5S\B5S\bin\Debug\netcoreapp3.1\B5S.exe
+C:\Users\leo-s\Desktop\B5S\B5S\B5S\bin\Debug\netcoreapp3.1\B5S.deps.json
+C:\Users\leo-s\Desktop\B5S\B5S\B5S\bin\Debug\netcoreapp3.1\B5S.runtimeconfig.json
+C:\Users\leo-s\Desktop\B5S\B5S\B5S\bin\Debug\netcoreapp3.1\B5S.runtimeconfig.dev.json
+C:\Users\leo-s\Desktop\B5S\B5S\B5S\bin\Debug\netcoreapp3.1\B5S.dll
+C:\Users\leo-s\Desktop\B5S\B5S\B5S\bin\Debug\netcoreapp3.1\B5S.pdb
+C:\Users\leo-s\Desktop\B5S\B5S\B5S\obj\Debug\netcoreapp3.1\B5S.csprojAssemblyReference.cache
+C:\Users\leo-s\Desktop\B5S\B5S\B5S\obj\Debug\netcoreapp3.1\B5S.AssemblyInfoInputs.cache
+C:\Users\leo-s\Desktop\B5S\B5S\B5S\obj\Debug\netcoreapp3.1\B5S.AssemblyInfo.cs
+C:\Users\leo-s\Desktop\B5S\B5S\B5S\obj\Debug\netcoreapp3.1\B5S.csproj.CoreCompileInputs.cache
+C:\Users\leo-s\Desktop\B5S\B5S\B5S\obj\Debug\netcoreapp3.1\B5S.dll
+C:\Users\leo-s\Desktop\B5S\B5S\B5S\obj\Debug\netcoreapp3.1\B5S.pdb
+C:\Users\leo-s\Desktop\B5S\B5S\B5S\obj\Debug\netcoreapp3.1\B5S.genruntimeconfig.cache

@@ -22,6 +22,7 @@ namespace EncontrarNumeroCartao
             for (int contadorPrimeiroDigito = 0; contadorPrimeiroDigito <= 9; contadorPrimeiroDigito++)
             {
                 numeroDoCartao[6] = contadorPrimeiroDigito;
+
                 for (int contadorSegundoDigito = 0; contadorSegundoDigito <= 9; contadorSegundoDigito++)
                 {
                     numeroDoCartao[7] = contadorSegundoDigito;
@@ -38,10 +39,12 @@ namespace EncontrarNumeroCartao
                                 {
                                     numeroDoCartao[11] = contadorSextoDigito;
 
-                                    if (encontrarNumeroCartao(numeroDoCartao) != "!")
+                                    if (encontrarNumeroCartao(numeroDoCartao) != "!erro")
                                     {
                                         Console.WriteLine("Encontrei!!!!");
-                                        Console.WriteLine(encontrarNumeroCartao(numeroDoCartao));                                        
+                                        Console.WriteLine(encontrarNumeroCartao(numeroDoCartao));
+
+                                        Console.ReadLine();
                                     }
                                 }
                             }
@@ -54,11 +57,24 @@ namespace EncontrarNumeroCartao
         static String encontrarNumeroCartao(int[] cartao)
         {
 
-            int[] cloneCartao = (int[])cartao.Clone();
+            int[] cloneCartao = (int[])cartao.Clone();            
 
             for (int contador = cartao.Length - 2; contador > 1; contador -= 2)
             {
-                cartao[contador] = cartao[contador] * 2;
+                if (
+                    contador != 0 &&
+                    contador != 1 &&
+                    contador != 2 &&
+                    contador != 3 &&
+                    contador != 4 &&
+                    contador != 5 &&
+                    contador != 12 &&
+                    contador != 13 &&
+                    contador != 14 &&
+                    contador != 16 &&
+                    contador != 15
+                    )
+                    cartao[contador] = cartao[contador] * 2;
             }
 
             for (int contador_2 = cartao.Length - 2; contador_2 > 1; contador_2 -= 2)
@@ -73,25 +89,26 @@ namespace EncontrarNumeroCartao
             }
 
             int somaTotal = 0;
-            for (int contador_3 = 0; contador_3 <= cartao.Length - 2; contador_3++)
+            for (int contador_3 = 0; contador_3 <= cartao.Length - 1; contador_3++)
             {
                 somaTotal += cartao[contador_3];
             }
 
             long multiploFixo = 0;
 
-            for (int i = 0; i < cartao.Length - 1; i++)
+            for (int i = 0; i < cartao.Length; i++)
             {
                 multiploFixo += cartao[i] * Convert.ToInt64(Math.Pow(10, cartao.Length - i - 1));
             }
 
-            if (multiploFixo % 10 == 0 && multiploFixo % 123457 == 0)
+            // && multiploFixo % 123457 == 0
+            if (somaTotal % 10 == 0 && multiploFixo % 123457 == 0)
             {
                 return string.Join("", cloneCartao);
             }
             else
             {
-                return "!";
+                return "!erro";
             }
         }
     }

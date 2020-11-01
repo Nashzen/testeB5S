@@ -10,3 +10,4 @@ C:\Users\leo-s\Documents\GitHub\testeB5S\PrimeiroValorNaoRepetido\obj\Debug\netc
 C:\Users\leo-s\Documents\GitHub\testeB5S\PrimeiroValorNaoRepetido\obj\Debug\netcoreapp3.1\PrimeiroValorNaoRepetido.dll
 C:\Users\leo-s\Documents\GitHub\testeB5S\PrimeiroValorNaoRepetido\obj\Debug\netcoreapp3.1\PrimeiroValorNaoRepetido.pdb
 C:\Users\leo-s\Documents\GitHub\testeB5S\PrimeiroValorNaoRepetido\obj\Debug\netcoreapp3.1\PrimeiroValorNaoRepetido.genruntimeconfig.cache
+C:\Users\leo-s\Documents\GitHub\testeB5S\PrimeiroValorNaoRepetido\obj\Debug\netcoreapp3.1\PrimeiroValorNaoRepetido.csprojAssemblyReference.cache

@@ -14,7 +14,7 @@ namespace B5S
          */
         static void Main(string[] args)
         {
-            Console.WriteLine("Digite um numero: ");
+            Console.WriteLine("Digite um numero para saber o mês correspondente: ");
             int mes = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine(MesCorrespondente(mes));
         }

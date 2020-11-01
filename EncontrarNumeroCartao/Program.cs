@@ -3,12 +3,15 @@
 namespace EncontrarNumeroCartao
 {
     /**
+     * 
      * Descubra o número do cartão de crédito abaixo sabendo que o mesmo é um multiplo de 123457 e o digito de luhn é válido.
      * Número do cartão: 543210******1234
      *
      * O algoritimo de luhn deverá ser utilizado.
      *
      * @return string - O número do cartão de crédito
+     * 
+     * REFERENCIA: https://www.geeksforgeeks.org/luhn-algorithm/
      */
     class Program
     {
@@ -38,8 +41,7 @@ namespace EncontrarNumeroCartao
                                     if (encontrarNumeroCartao(numeroDoCartao) != "!")
                                     {
                                         Console.WriteLine("Encontrei!!!!");
-                                        Console.WriteLine(encontrarNumeroCartao(numeroDoCartao));
-                                        //Console.ReadLine();
+                                        Console.WriteLine(encontrarNumeroCartao(numeroDoCartao));                                        
                                     }
                                 }
                             }

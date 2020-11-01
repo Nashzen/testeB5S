@@ -1,0 +1,13 @@
+C:\Users\leo-s\Documents\GitHub\testeB5S\EncontrarNumeroCartao\bin\Debug\netcoreapp3.1\EncontrarNumeroCartao.exe
+C:\Users\leo-s\Documents\GitHub\testeB5S\EncontrarNumeroCartao\bin\Debug\netcoreapp3.1\EncontrarNumeroCartao.deps.json
+C:\Users\leo-s\Documents\GitHub\testeB5S\EncontrarNumeroCartao\bin\Debug\netcoreapp3.1\EncontrarNumeroCartao.runtimeconfig.json
+C:\Users\leo-s\Documents\GitHub\testeB5S\EncontrarNumeroCartao\bin\Debug\netcoreapp3.1\EncontrarNumeroCartao.runtimeconfig.dev.json
+C:\Users\leo-s\Documents\GitHub\testeB5S\EncontrarNumeroCartao\bin\Debug\netcoreapp3.1\EncontrarNumeroCartao.dll
+C:\Users\leo-s\Documents\GitHub\testeB5S\EncontrarNumeroCartao\bin\Debug\netcoreapp3.1\EncontrarNumeroCartao.pdb
+C:\Users\leo-s\Documents\GitHub\testeB5S\EncontrarNumeroCartao\obj\Debug\netcoreapp3.1\EncontrarNumeroCartao.csprojAssemblyReference.cache
+C:\Users\leo-s\Documents\GitHub\testeB5S\EncontrarNumeroCartao\obj\Debug\netcoreapp3.1\EncontrarNumeroCartao.AssemblyInfoInputs.cache
+C:\Users\leo-s\Documents\GitHub\testeB5S\EncontrarNumeroCartao\obj\Debug\netcoreapp3.1\EncontrarNumeroCartao.AssemblyInfo.cs
+C:\Users\leo-s\Documents\GitHub\testeB5S\EncontrarNumeroCartao\obj\Debug\netcoreapp3.1\EncontrarNumeroCartao.csproj.CoreCompileInputs.cache
+C:\Users\leo-s\Documents\GitHub\testeB5S\EncontrarNumeroCartao\obj\Debug\netcoreapp3.1\EncontrarNumeroCartao.dll
+C:\Users\leo-s\Documents\GitHub\testeB5S\EncontrarNumeroCartao\obj\Debug\netcoreapp3.1\EncontrarNumeroCartao.pdb
+C:\Users\leo-s\Documents\GitHub\testeB5S\EncontrarNumeroCartao\obj\Debug\netcoreapp3.1\EncontrarNumeroCartao.genruntimeconfig.cache

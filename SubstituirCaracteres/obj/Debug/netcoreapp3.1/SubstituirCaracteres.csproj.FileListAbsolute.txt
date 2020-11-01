@@ -10,3 +10,4 @@ C:\Users\leo-s\Documents\GitHub\testeB5S\SubstituirCaracteres\obj\Debug\netcorea
 C:\Users\leo-s\Documents\GitHub\testeB5S\SubstituirCaracteres\obj\Debug\netcoreapp3.1\SubstituirCaracteres.dll
 C:\Users\leo-s\Documents\GitHub\testeB5S\SubstituirCaracteres\obj\Debug\netcoreapp3.1\SubstituirCaracteres.pdb
 C:\Users\leo-s\Documents\GitHub\testeB5S\SubstituirCaracteres\obj\Debug\netcoreapp3.1\SubstituirCaracteres.genruntimeconfig.cache
+C:\Users\leo-s\Documents\GitHub\testeB5S\SubstituirCaracteres\obj\Debug\netcoreapp3.1\SubstituirCaracteres.csprojAssemblyReference.cache

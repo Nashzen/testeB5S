@@ -7,21 +7,32 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MediaSimples", "MediaSimple
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContarPares", "ContarPares\ContarPares.csproj", "{1407F60D-2511-4792-9308-7943122330F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MesCorrespondente", "MesCorrespondente\MesCorrespondente.csproj", "{C27E5BEC-C399-4181-8347-F76AC47979F3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MesCorrespondente", "MesCorrespondente\MesCorrespondente.csproj", "{C27E5BEC-C399-4181-8347-F76AC47979F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaiorItemArray", "MaiorItemArray\MaiorItemArray.csproj", "{02E3F608-7512-45A7-BACC-BAEC599B45B1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaiorItemArray", "MaiorItemArray\MaiorItemArray.csproj", "{02E3F608-7512-45A7-BACC-BAEC599B45B1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InverterString", "InverterString\InverterString.csproj", "{85600181-1DAF-4A80-81B7-AD74388DCC02}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InverterString", "InverterString\InverterString.csproj", "{85600181-1DAF-4A80-81B7-AD74388DCC02}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubstituirCaracteres", "SubstituirCaracteres\SubstituirCaracteres.csproj", "{44593870-468A-4E59-8C9C-8F4BCAE2AB5E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SubstituirCaracteres", "SubstituirCaracteres\SubstituirCaracteres.csproj", "{44593870-468A-4E59-8C9C-8F4BCAE2AB5E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operacoes", "Operacoes\Operacoes.csproj", "{CC137ADB-112E-4C32-80F9-75C15783717A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Operacoes", "Operacoes\Operacoes.csproj", "{CC137ADB-112E-4C32-80F9-75C15783717A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentificarPalindromo", "IdentificarPalindromo\IdentificarPalindromo.csproj", "{7EA6599C-4808-4702-9AE7-D0EF823810C6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IdentificarPalindromo", "IdentificarPalindromo\IdentificarPalindromo.csproj", "{7EA6599C-4808-4702-9AE7-D0EF823810C6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrdenarArray", "OrdenarArray\OrdenarArray.csproj", "{7D0B2565-9F06-4EAE-A650-53C1B621B710}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OrdenarArray", "OrdenarArray\OrdenarArray.csproj", "{7D0B2565-9F06-4EAE-A650-53C1B621B710}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManipulacaoArquivo", "ManipulacaoArquivo\ManipulacaoArquivo.csproj", "{2B7C5958-854C-4118-9272-CF32C5BA549F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ManipulacaoArquivo", "ManipulacaoArquivo\ManipulacaoArquivo.csproj", "{2B7C5958-854C-4118-9272-CF32C5BA549F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrimeiroValorNaoRepetido", "PrimeiroValorNaoRepetido\PrimeiroValorNaoRepetido.csproj", "{5E807BD8-93E4-45E7-BAE5-1F4D243FF7B4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Pergunta teórica", "Pergunta teórica", "{3F110FB7-9E3D-4F10-97C9-EB5472877A1A}"
+	ProjectSection(SolutionItems) = preProject
+		Perguntas teoricas.txt = Perguntas teoricas.txt
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MenorNumeroNotas", "MenorNumeroNotas\MenorNumeroNotas.csproj", "{4CA61313-0827-4FBF-9D77-097025018B24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncontrarNumeroCartao", "EncontrarNumeroCartao\EncontrarNumeroCartao.csproj", "{37A27E69-49E5-4B04-B2BA-FF3E209D89F5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +80,18 @@ Global
 		{2B7C5958-854C-4118-9272-CF32C5BA549F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2B7C5958-854C-4118-9272-CF32C5BA549F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2B7C5958-854C-4118-9272-CF32C5BA549F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E807BD8-93E4-45E7-BAE5-1F4D243FF7B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E807BD8-93E4-45E7-BAE5-1F4D243FF7B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E807BD8-93E4-45E7-BAE5-1F4D243FF7B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E807BD8-93E4-45E7-BAE5-1F4D243FF7B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CA61313-0827-4FBF-9D77-097025018B24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CA61313-0827-4FBF-9D77-097025018B24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CA61313-0827-4FBF-9D77-097025018B24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CA61313-0827-4FBF-9D77-097025018B24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37A27E69-49E5-4B04-B2BA-FF3E209D89F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37A27E69-49E5-4B04-B2BA-FF3E209D89F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37A27E69-49E5-4B04-B2BA-FF3E209D89F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37A27E69-49E5-4B04-B2BA-FF3E209D89F5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

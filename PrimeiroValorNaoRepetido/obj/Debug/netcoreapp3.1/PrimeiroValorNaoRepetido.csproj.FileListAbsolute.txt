@@ -1,0 +1,12 @@
+C:\Users\leo-s\Documents\GitHub\testeB5S\PrimeiroValorNaoRepetido\bin\Debug\netcoreapp3.1\PrimeiroValorNaoRepetido.exe
+C:\Users\leo-s\Documents\GitHub\testeB5S\PrimeiroValorNaoRepetido\bin\Debug\netcoreapp3.1\PrimeiroValorNaoRepetido.deps.json
+C:\Users\leo-s\Documents\GitHub\testeB5S\PrimeiroValorNaoRepetido\bin\Debug\netcoreapp3.1\PrimeiroValorNaoRepetido.runtimeconfig.json
+C:\Users\leo-s\Documents\GitHub\testeB5S\PrimeiroValorNaoRepetido\bin\Debug\netcoreapp3.1\PrimeiroValorNaoRepetido.runtimeconfig.dev.json
+C:\Users\leo-s\Documents\GitHub\testeB5S\PrimeiroValorNaoRepetido\bin\Debug\netcoreapp3.1\PrimeiroValorNaoRepetido.dll
+C:\Users\leo-s\Documents\GitHub\testeB5S\PrimeiroValorNaoRepetido\bin\Debug\netcoreapp3.1\PrimeiroValorNaoRepetido.pdb
+C:\Users\leo-s\Documents\GitHub\testeB5S\PrimeiroValorNaoRepetido\obj\Debug\netcoreapp3.1\PrimeiroValorNaoRepetido.AssemblyInfoInputs.cache
+C:\Users\leo-s\Documents\GitHub\testeB5S\PrimeiroValorNaoRepetido\obj\Debug\netcoreapp3.1\PrimeiroValorNaoRepetido.AssemblyInfo.cs
+C:\Users\leo-s\Documents\GitHub\testeB5S\PrimeiroValorNaoRepetido\obj\Debug\netcoreapp3.1\PrimeiroValorNaoRepetido.csproj.CoreCompileInputs.cache
+C:\Users\leo-s\Documents\GitHub\testeB5S\PrimeiroValorNaoRepetido\obj\Debug\netcoreapp3.1\PrimeiroValorNaoRepetido.dll
+C:\Users\leo-s\Documents\GitHub\testeB5S\PrimeiroValorNaoRepetido\obj\Debug\netcoreapp3.1\PrimeiroValorNaoRepetido.pdb
+C:\Users\leo-s\Documents\GitHub\testeB5S\PrimeiroValorNaoRepetido\obj\Debug\netcoreapp3.1\PrimeiroValorNaoRepetido.genruntimeconfig.cache

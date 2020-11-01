@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ELtT4G9emO8RNcp9vS/jPWEkU94SUvaV8k8spskO/huO12tshHg1rLuubRngCY0Z3JVjWGBhwDl210fd2L4x2g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\leo-s\\Documents\\GitHub\\testeB5S\\PrimeiroValorNaoRepetido\\PrimeiroValorNaoRepetido.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leo-s\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

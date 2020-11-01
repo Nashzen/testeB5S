@@ -1,0 +1,17 @@
+/**
+ * Escreva a diferença entre interfaces, instancias, objetos e classes no contexto de orientação a objeto:
+
+ - Classes: São estruturas de dados que podem ou não possuir estados ou comportamentos. São compostas por atributos, variáveis e métodos, que podem ser implementados(instanciados).
+
+ - Interfaces: São 'contratos' das classes. Elas só possuem a declaração das assinaturas de métodos que devem existir em uma classe para estarem em conformidade com a interface.
+Em geral, elas não possuem implementações de métodos e nem dados. Interfaces são dependentes de classes para existirem.
+
+- Objetos: Objetos é uma referência a um local que possui algum valor. Um objeto pode ser uma variável, função ou estrutura de dados. Para que um objeto possa existir, 
+ele deve ser instanciado. A partir do momento que é instanciado, este objeto pode usar todos os atributos da sua classe pai.
+
+- Instância: É o nome dado à referenciação de um objeto. Para que uma classe e suas propriedades sejam utilizadas em qualquer lugar do código, é necessário que ela seja 
+instanciada.
+
+
+   Fontes: https://pt.stackoverflow.com/questions/136404/diferen%C3%A7a-classe-e-interface
+		   https://pt.wikipedia.org/wiki/Objeto_(ci%C3%AAncia_da_computa%C3%A7%C3%A3o)#:~:text=Um%20objeto%20pode%20ser%20uma,)%20e%20m%C3%A9todos%20(a%C3%A7%C3%B5es).

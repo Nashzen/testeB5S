@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rSd3NfZQp0LqHpW2bdEshx1s1J9tDJmONSN5+p19aZK6D5EZ/LNmYQn6sVtEWd1EA0/ISHYkpCg+0z4dJfr1yA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\leo-s\\Documents\\GitHub\\testeB5S\\EncontrarNumeroCartao\\EncontrarNumeroCartao.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leo-s\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+C:\Users\leo-s\Documents\GitHub\testeB5S\MenorNumeroNotas\bin\Debug\netcoreapp3.1\MenorNumeroNotas.exe
+C:\Users\leo-s\Documents\GitHub\testeB5S\MenorNumeroNotas\bin\Debug\netcoreapp3.1\MenorNumeroNotas.deps.json
+C:\Users\leo-s\Documents\GitHub\testeB5S\MenorNumeroNotas\bin\Debug\netcoreapp3.1\MenorNumeroNotas.runtimeconfig.json
+C:\Users\leo-s\Documents\GitHub\testeB5S\MenorNumeroNotas\bin\Debug\netcoreapp3.1\MenorNumeroNotas.runtimeconfig.dev.json
+C:\Users\leo-s\Documents\GitHub\testeB5S\MenorNumeroNotas\bin\Debug\netcoreapp3.1\MenorNumeroNotas.dll
+C:\Users\leo-s\Documents\GitHub\testeB5S\MenorNumeroNotas\bin\Debug\netcoreapp3.1\MenorNumeroNotas.pdb
+C:\Users\leo-s\Documents\GitHub\testeB5S\MenorNumeroNotas\obj\Debug\netcoreapp3.1\MenorNumeroNotas.AssemblyInfoInputs.cache
+C:\Users\leo-s\Documents\GitHub\testeB5S\MenorNumeroNotas\obj\Debug\netcoreapp3.1\MenorNumeroNotas.AssemblyInfo.cs
+C:\Users\leo-s\Documents\GitHub\testeB5S\MenorNumeroNotas\obj\Debug\netcoreapp3.1\MenorNumeroNotas.csproj.CoreCompileInputs.cache
+C:\Users\leo-s\Documents\GitHub\testeB5S\MenorNumeroNotas\obj\Debug\netcoreapp3.1\MenorNumeroNotas.dll
+C:\Users\leo-s\Documents\GitHub\testeB5S\MenorNumeroNotas\obj\Debug\netcoreapp3.1\MenorNumeroNotas.pdb
+C:\Users\leo-s\Documents\GitHub\testeB5S\MenorNumeroNotas\obj\Debug\netcoreapp3.1\MenorNumeroNotas.genruntimeconfig.cache

@@ -10,3 +10,4 @@ C:\Users\leo-s\Documents\GitHub\testeB5S\Operacoes\obj\Debug\netcoreapp3.1\Opera
 C:\Users\leo-s\Documents\GitHub\testeB5S\Operacoes\obj\Debug\netcoreapp3.1\Operacoes.dll
 C:\Users\leo-s\Documents\GitHub\testeB5S\Operacoes\obj\Debug\netcoreapp3.1\Operacoes.pdb
 C:\Users\leo-s\Documents\GitHub\testeB5S\Operacoes\obj\Debug\netcoreapp3.1\Operacoes.genruntimeconfig.cache
+C:\Users\leo-s\Documents\GitHub\testeB5S\Operacoes\obj\Debug\netcoreapp3.1\Operacoes.csprojAssemblyReference.cache

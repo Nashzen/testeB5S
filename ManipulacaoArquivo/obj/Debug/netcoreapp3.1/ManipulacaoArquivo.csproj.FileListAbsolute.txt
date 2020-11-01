@@ -1,0 +1,13 @@
+C:\Users\leo-s\Documents\GitHub\testeB5S\ManipulacaoArquivo\bin\Debug\netcoreapp3.1\ManipulacaoArquivo.exe
+C:\Users\leo-s\Documents\GitHub\testeB5S\ManipulacaoArquivo\bin\Debug\netcoreapp3.1\ManipulacaoArquivo.deps.json
+C:\Users\leo-s\Documents\GitHub\testeB5S\ManipulacaoArquivo\bin\Debug\netcoreapp3.1\ManipulacaoArquivo.runtimeconfig.json
+C:\Users\leo-s\Documents\GitHub\testeB5S\ManipulacaoArquivo\bin\Debug\netcoreapp3.1\ManipulacaoArquivo.runtimeconfig.dev.json
+C:\Users\leo-s\Documents\GitHub\testeB5S\ManipulacaoArquivo\bin\Debug\netcoreapp3.1\ManipulacaoArquivo.dll
+C:\Users\leo-s\Documents\GitHub\testeB5S\ManipulacaoArquivo\bin\Debug\netcoreapp3.1\ManipulacaoArquivo.pdb
+C:\Users\leo-s\Documents\GitHub\testeB5S\ManipulacaoArquivo\obj\Debug\netcoreapp3.1\ManipulacaoArquivo.csprojAssemblyReference.cache
+C:\Users\leo-s\Documents\GitHub\testeB5S\ManipulacaoArquivo\obj\Debug\netcoreapp3.1\ManipulacaoArquivo.AssemblyInfoInputs.cache
+C:\Users\leo-s\Documents\GitHub\testeB5S\ManipulacaoArquivo\obj\Debug\netcoreapp3.1\ManipulacaoArquivo.AssemblyInfo.cs
+C:\Users\leo-s\Documents\GitHub\testeB5S\ManipulacaoArquivo\obj\Debug\netcoreapp3.1\ManipulacaoArquivo.csproj.CoreCompileInputs.cache
+C:\Users\leo-s\Documents\GitHub\testeB5S\ManipulacaoArquivo\obj\Debug\netcoreapp3.1\ManipulacaoArquivo.dll
+C:\Users\leo-s\Documents\GitHub\testeB5S\ManipulacaoArquivo\obj\Debug\netcoreapp3.1\ManipulacaoArquivo.pdb
+C:\Users\leo-s\Documents\GitHub\testeB5S\ManipulacaoArquivo\obj\Debug\netcoreapp3.1\ManipulacaoArquivo.genruntimeconfig.cache

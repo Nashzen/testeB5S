@@ -1,0 +1,12 @@
+C:\Users\leo-s\Documents\GitHub\testeB5S\OrdenarArray\bin\Debug\netcoreapp3.1\OrdenarArray.exe
+C:\Users\leo-s\Documents\GitHub\testeB5S\OrdenarArray\bin\Debug\netcoreapp3.1\OrdenarArray.deps.json
+C:\Users\leo-s\Documents\GitHub\testeB5S\OrdenarArray\bin\Debug\netcoreapp3.1\OrdenarArray.runtimeconfig.json
+C:\Users\leo-s\Documents\GitHub\testeB5S\OrdenarArray\bin\Debug\netcoreapp3.1\OrdenarArray.runtimeconfig.dev.json
+C:\Users\leo-s\Documents\GitHub\testeB5S\OrdenarArray\bin\Debug\netcoreapp3.1\OrdenarArray.dll
+C:\Users\leo-s\Documents\GitHub\testeB5S\OrdenarArray\bin\Debug\netcoreapp3.1\OrdenarArray.pdb
+C:\Users\leo-s\Documents\GitHub\testeB5S\OrdenarArray\obj\Debug\netcoreapp3.1\OrdenarArray.AssemblyInfoInputs.cache
+C:\Users\leo-s\Documents\GitHub\testeB5S\OrdenarArray\obj\Debug\netcoreapp3.1\OrdenarArray.AssemblyInfo.cs
+C:\Users\leo-s\Documents\GitHub\testeB5S\OrdenarArray\obj\Debug\netcoreapp3.1\OrdenarArray.csproj.CoreCompileInputs.cache
+C:\Users\leo-s\Documents\GitHub\testeB5S\OrdenarArray\obj\Debug\netcoreapp3.1\OrdenarArray.dll
+C:\Users\leo-s\Documents\GitHub\testeB5S\OrdenarArray\obj\Debug\netcoreapp3.1\OrdenarArray.pdb
+C:\Users\leo-s\Documents\GitHub\testeB5S\OrdenarArray\obj\Debug\netcoreapp3.1\OrdenarArray.genruntimeconfig.cache

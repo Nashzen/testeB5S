@@ -13,22 +13,22 @@ namespace B5S
          * @return string
          */
         static void Main(string[] args)
-        {            
+        {
             Console.WriteLine("Digite um numero: ");
             int mes = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("O mes " +mes+ " é " +MesCorrespondente(mes));           
+            Console.WriteLine(MesCorrespondente(mes));
         }
 
         static public string MesCorrespondente(int mes)
-        {            
+        {
             switch (mes)
             {
                 case 1:
                     return "Janeiro";
                 case 2:
-                    return "Fevereiro";                  
+                    return "Fevereiro";
                 case 3:
-                    return "Março";                    
+                    return "Março";
                 case 4:
                     return "Abril";
                 case 5:
@@ -54,5 +54,5 @@ namespace B5S
         }
     }
 
-   
+
 }

@@ -1,0 +1,13 @@
+C:\Users\leo-s\Documents\GitHub\testeB5S\IdentificarPalindromo\obj\Debug\netcoreapp3.1\IdentificarPalindromo.csprojAssemblyReference.cache
+C:\Users\leo-s\Documents\GitHub\testeB5S\IdentificarPalindromo\obj\Debug\netcoreapp3.1\IdentificarPalindromo.AssemblyInfoInputs.cache
+C:\Users\leo-s\Documents\GitHub\testeB5S\IdentificarPalindromo\obj\Debug\netcoreapp3.1\IdentificarPalindromo.AssemblyInfo.cs
+C:\Users\leo-s\Documents\GitHub\testeB5S\IdentificarPalindromo\obj\Debug\netcoreapp3.1\IdentificarPalindromo.csproj.CoreCompileInputs.cache
+C:\Users\leo-s\Documents\GitHub\testeB5S\IdentificarPalindromo\bin\Debug\netcoreapp3.1\IdentificarPalindromo.exe
+C:\Users\leo-s\Documents\GitHub\testeB5S\IdentificarPalindromo\bin\Debug\netcoreapp3.1\IdentificarPalindromo.deps.json
+C:\Users\leo-s\Documents\GitHub\testeB5S\IdentificarPalindromo\bin\Debug\netcoreapp3.1\IdentificarPalindromo.runtimeconfig.json
+C:\Users\leo-s\Documents\GitHub\testeB5S\IdentificarPalindromo\bin\Debug\netcoreapp3.1\IdentificarPalindromo.runtimeconfig.dev.json
+C:\Users\leo-s\Documents\GitHub\testeB5S\IdentificarPalindromo\bin\Debug\netcoreapp3.1\IdentificarPalindromo.dll
+C:\Users\leo-s\Documents\GitHub\testeB5S\IdentificarPalindromo\bin\Debug\netcoreapp3.1\IdentificarPalindromo.pdb
+C:\Users\leo-s\Documents\GitHub\testeB5S\IdentificarPalindromo\obj\Debug\netcoreapp3.1\IdentificarPalindromo.dll
+C:\Users\leo-s\Documents\GitHub\testeB5S\IdentificarPalindromo\obj\Debug\netcoreapp3.1\IdentificarPalindromo.pdb
+C:\Users\leo-s\Documents\GitHub\testeB5S\IdentificarPalindromo\obj\Debug\netcoreapp3.1\IdentificarPalindromo.genruntimeconfig.cache

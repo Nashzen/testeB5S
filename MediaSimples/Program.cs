@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace MediaSimples
 {
@@ -15,12 +17,39 @@ namespace MediaSimples
          */
         static void Main(string[] args)
         {
-            
+            MediaSimples();     
         }
 
-        public static void MediaSimples(int[] notas)
+        public static void MediaSimples()
         {
-            
+            //booleano que para ou continua a construcao da lista
+            bool adicionarNumero = true;
+            //Lista que armazena os numeros informados
+            List<int> listaDeNumeros = new List<int>();
+
+
+            while (adicionarNumero == true)
+            {
+                Console.WriteLine("Insira um numero: ");
+                listaDeNumeros.Add(Convert.ToInt32(Console.ReadLine()));
+
+                Console.WriteLine(string.Join("\t", listaDeNumeros));
+
+                Console.WriteLine("Deseja adicionar mais algum numero? (S/N) ");
+
+                var resposta = Console.ReadLine();               
+                if (resposta == "N" || resposta == "n")
+                {
+                    adicionarNumero = false;
+                }
+            }
+
+            int tamanhoDaLista = listaDeNumeros.Count;
+            int media = listaDeNumeros.Sum() / tamanhoDaLista;
+
+            Console.WriteLine("A media dos numeros é: " + media);
+             
+
         }
     }
 }

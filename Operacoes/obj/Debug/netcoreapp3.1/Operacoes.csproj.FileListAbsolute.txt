@@ -1,0 +1,12 @@
+C:\Users\leo-s\Documents\GitHub\testeB5S\Operacoes\bin\Debug\netcoreapp3.1\Operacoes.exe
+C:\Users\leo-s\Documents\GitHub\testeB5S\Operacoes\bin\Debug\netcoreapp3.1\Operacoes.deps.json
+C:\Users\leo-s\Documents\GitHub\testeB5S\Operacoes\bin\Debug\netcoreapp3.1\Operacoes.runtimeconfig.json
+C:\Users\leo-s\Documents\GitHub\testeB5S\Operacoes\bin\Debug\netcoreapp3.1\Operacoes.runtimeconfig.dev.json
+C:\Users\leo-s\Documents\GitHub\testeB5S\Operacoes\bin\Debug\netcoreapp3.1\Operacoes.dll
+C:\Users\leo-s\Documents\GitHub\testeB5S\Operacoes\bin\Debug\netcoreapp3.1\Operacoes.pdb
+C:\Users\leo-s\Documents\GitHub\testeB5S\Operacoes\obj\Debug\netcoreapp3.1\Operacoes.AssemblyInfoInputs.cache
+C:\Users\leo-s\Documents\GitHub\testeB5S\Operacoes\obj\Debug\netcoreapp3.1\Operacoes.AssemblyInfo.cs
+C:\Users\leo-s\Documents\GitHub\testeB5S\Operacoes\obj\Debug\netcoreapp3.1\Operacoes.csproj.CoreCompileInputs.cache
+C:\Users\leo-s\Documents\GitHub\testeB5S\Operacoes\obj\Debug\netcoreapp3.1\Operacoes.dll
+C:\Users\leo-s\Documents\GitHub\testeB5S\Operacoes\obj\Debug\netcoreapp3.1\Operacoes.pdb
+C:\Users\leo-s\Documents\GitHub\testeB5S\Operacoes\obj\Debug\netcoreapp3.1\Operacoes.genruntimeconfig.cache

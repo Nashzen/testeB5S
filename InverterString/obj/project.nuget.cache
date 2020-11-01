@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1asyZBwAoj3aDr+2umOJoHli359qqwtczvVFT3l8/KVNiPED2E4EvZ9mJD8eGWtijn0Pd262lSFmg8o3Ftte4g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\leo-s\\Documents\\GitHub\\testeB5S\\InverterString\\InverterString.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leo-s\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

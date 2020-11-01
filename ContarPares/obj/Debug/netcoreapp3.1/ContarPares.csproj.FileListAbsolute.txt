@@ -1,0 +1,13 @@
+C:\Users\leo-s\Documents\GitHub\testeB5S\ContarPares\bin\Debug\netcoreapp3.1\ContarPares.exe
+C:\Users\leo-s\Documents\GitHub\testeB5S\ContarPares\bin\Debug\netcoreapp3.1\ContarPares.deps.json
+C:\Users\leo-s\Documents\GitHub\testeB5S\ContarPares\bin\Debug\netcoreapp3.1\ContarPares.runtimeconfig.json
+C:\Users\leo-s\Documents\GitHub\testeB5S\ContarPares\bin\Debug\netcoreapp3.1\ContarPares.runtimeconfig.dev.json
+C:\Users\leo-s\Documents\GitHub\testeB5S\ContarPares\bin\Debug\netcoreapp3.1\ContarPares.dll
+C:\Users\leo-s\Documents\GitHub\testeB5S\ContarPares\bin\Debug\netcoreapp3.1\ContarPares.pdb
+C:\Users\leo-s\Documents\GitHub\testeB5S\ContarPares\obj\Debug\netcoreapp3.1\ContarPares.csprojAssemblyReference.cache
+C:\Users\leo-s\Documents\GitHub\testeB5S\ContarPares\obj\Debug\netcoreapp3.1\ContarPares.AssemblyInfoInputs.cache
+C:\Users\leo-s\Documents\GitHub\testeB5S\ContarPares\obj\Debug\netcoreapp3.1\ContarPares.AssemblyInfo.cs
+C:\Users\leo-s\Documents\GitHub\testeB5S\ContarPares\obj\Debug\netcoreapp3.1\ContarPares.csproj.CoreCompileInputs.cache
+C:\Users\leo-s\Documents\GitHub\testeB5S\ContarPares\obj\Debug\netcoreapp3.1\ContarPares.dll
+C:\Users\leo-s\Documents\GitHub\testeB5S\ContarPares\obj\Debug\netcoreapp3.1\ContarPares.pdb
+C:\Users\leo-s\Documents\GitHub\testeB5S\ContarPares\obj\Debug\netcoreapp3.1\ContarPares.genruntimeconfig.cache

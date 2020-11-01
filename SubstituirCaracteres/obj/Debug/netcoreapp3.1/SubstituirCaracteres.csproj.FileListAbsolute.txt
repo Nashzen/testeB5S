@@ -1,0 +1,12 @@
+C:\Users\leo-s\Documents\GitHub\testeB5S\SubstituirCaracteres\bin\Debug\netcoreapp3.1\SubstituirCaracteres.exe
+C:\Users\leo-s\Documents\GitHub\testeB5S\SubstituirCaracteres\bin\Debug\netcoreapp3.1\SubstituirCaracteres.deps.json
+C:\Users\leo-s\Documents\GitHub\testeB5S\SubstituirCaracteres\bin\Debug\netcoreapp3.1\SubstituirCaracteres.runtimeconfig.json
+C:\Users\leo-s\Documents\GitHub\testeB5S\SubstituirCaracteres\bin\Debug\netcoreapp3.1\SubstituirCaracteres.runtimeconfig.dev.json
+C:\Users\leo-s\Documents\GitHub\testeB5S\SubstituirCaracteres\bin\Debug\netcoreapp3.1\SubstituirCaracteres.dll
+C:\Users\leo-s\Documents\GitHub\testeB5S\SubstituirCaracteres\bin\Debug\netcoreapp3.1\SubstituirCaracteres.pdb
+C:\Users\leo-s\Documents\GitHub\testeB5S\SubstituirCaracteres\obj\Debug\netcoreapp3.1\SubstituirCaracteres.AssemblyInfoInputs.cache
+C:\Users\leo-s\Documents\GitHub\testeB5S\SubstituirCaracteres\obj\Debug\netcoreapp3.1\SubstituirCaracteres.AssemblyInfo.cs
+C:\Users\leo-s\Documents\GitHub\testeB5S\SubstituirCaracteres\obj\Debug\netcoreapp3.1\SubstituirCaracteres.csproj.CoreCompileInputs.cache
+C:\Users\leo-s\Documents\GitHub\testeB5S\SubstituirCaracteres\obj\Debug\netcoreapp3.1\SubstituirCaracteres.dll
+C:\Users\leo-s\Documents\GitHub\testeB5S\SubstituirCaracteres\obj\Debug\netcoreapp3.1\SubstituirCaracteres.pdb
+C:\Users\leo-s\Documents\GitHub\testeB5S\SubstituirCaracteres\obj\Debug\netcoreapp3.1\SubstituirCaracteres.genruntimeconfig.cache

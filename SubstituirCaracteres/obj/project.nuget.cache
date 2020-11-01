@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EB3w21DW9PD7d+5iAnajFGTCOEoXvq2Y8oTEzjVhQT/rHMm65LaRUOu0T15eD52Qq0E7bfgjW5v2BLUw161qDQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\leo-s\\Documents\\GitHub\\testeB5S\\SubstituirCaracteres\\SubstituirCaracteres.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leo-s\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

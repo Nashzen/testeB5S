@@ -1,0 +1,13 @@
+C:\Users\leo-s\Documents\GitHub\testeB5S\MaiorItemArray\bin\Debug\netcoreapp3.1\MaiorItemArray.exe
+C:\Users\leo-s\Documents\GitHub\testeB5S\MaiorItemArray\bin\Debug\netcoreapp3.1\MaiorItemArray.deps.json
+C:\Users\leo-s\Documents\GitHub\testeB5S\MaiorItemArray\bin\Debug\netcoreapp3.1\MaiorItemArray.runtimeconfig.json
+C:\Users\leo-s\Documents\GitHub\testeB5S\MaiorItemArray\bin\Debug\netcoreapp3.1\MaiorItemArray.runtimeconfig.dev.json
+C:\Users\leo-s\Documents\GitHub\testeB5S\MaiorItemArray\bin\Debug\netcoreapp3.1\MaiorItemArray.dll
+C:\Users\leo-s\Documents\GitHub\testeB5S\MaiorItemArray\bin\Debug\netcoreapp3.1\MaiorItemArray.pdb
+C:\Users\leo-s\Documents\GitHub\testeB5S\MaiorItemArray\obj\Debug\netcoreapp3.1\MaiorItemArray.csprojAssemblyReference.cache
+C:\Users\leo-s\Documents\GitHub\testeB5S\MaiorItemArray\obj\Debug\netcoreapp3.1\MaiorItemArray.AssemblyInfoInputs.cache
+C:\Users\leo-s\Documents\GitHub\testeB5S\MaiorItemArray\obj\Debug\netcoreapp3.1\MaiorItemArray.AssemblyInfo.cs
+C:\Users\leo-s\Documents\GitHub\testeB5S\MaiorItemArray\obj\Debug\netcoreapp3.1\MaiorItemArray.csproj.CoreCompileInputs.cache
+C:\Users\leo-s\Documents\GitHub\testeB5S\MaiorItemArray\obj\Debug\netcoreapp3.1\MaiorItemArray.dll
+C:\Users\leo-s\Documents\GitHub\testeB5S\MaiorItemArray\obj\Debug\netcoreapp3.1\MaiorItemArray.pdb
+C:\Users\leo-s\Documents\GitHub\testeB5S\MaiorItemArray\obj\Debug\netcoreapp3.1\MaiorItemArray.genruntimeconfig.cache

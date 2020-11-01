@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\leo-s\\Documents\\GitHub\\testeB5S\\B5S\\MesCorrespondente.csproj",
+      "projectUniqueName": "C:\\Users\\leo-s\\Documents\\GitHub\\testeB5S\\MesCorrespondente\\MesCorrespondente.csproj",
       "projectName": "MesCorrespondente",
-      "projectPath": "C:\\Users\\leo-s\\Documents\\GitHub\\testeB5S\\B5S\\MesCorrespondente.csproj",
+      "projectPath": "C:\\Users\\leo-s\\Documents\\GitHub\\testeB5S\\MesCorrespondente\\MesCorrespondente.csproj",
       "packagesPath": "C:\\Users\\leo-s\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\leo-s\\Documents\\GitHub\\testeB5S\\B5S\\obj\\",
+      "outputPath": "C:\\Users\\leo-s\\Documents\\GitHub\\testeB5S\\MesCorrespondente\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\leo-s\\AppData\\Roaming\\NuGet\\NuGet.Config",

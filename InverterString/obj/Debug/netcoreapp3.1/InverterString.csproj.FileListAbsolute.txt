@@ -1,0 +1,13 @@
+C:\Users\leo-s\Documents\GitHub\testeB5S\InverterString\bin\Debug\netcoreapp3.1\InverterString.exe
+C:\Users\leo-s\Documents\GitHub\testeB5S\InverterString\bin\Debug\netcoreapp3.1\InverterString.deps.json
+C:\Users\leo-s\Documents\GitHub\testeB5S\InverterString\bin\Debug\netcoreapp3.1\InverterString.runtimeconfig.json
+C:\Users\leo-s\Documents\GitHub\testeB5S\InverterString\bin\Debug\netcoreapp3.1\InverterString.runtimeconfig.dev.json
+C:\Users\leo-s\Documents\GitHub\testeB5S\InverterString\bin\Debug\netcoreapp3.1\InverterString.dll
+C:\Users\leo-s\Documents\GitHub\testeB5S\InverterString\bin\Debug\netcoreapp3.1\InverterString.pdb
+C:\Users\leo-s\Documents\GitHub\testeB5S\InverterString\obj\Debug\netcoreapp3.1\InverterString.csprojAssemblyReference.cache
+C:\Users\leo-s\Documents\GitHub\testeB5S\InverterString\obj\Debug\netcoreapp3.1\InverterString.AssemblyInfoInputs.cache
+C:\Users\leo-s\Documents\GitHub\testeB5S\InverterString\obj\Debug\netcoreapp3.1\InverterString.AssemblyInfo.cs
+C:\Users\leo-s\Documents\GitHub\testeB5S\InverterString\obj\Debug\netcoreapp3.1\InverterString.csproj.CoreCompileInputs.cache
+C:\Users\leo-s\Documents\GitHub\testeB5S\InverterString\obj\Debug\netcoreapp3.1\InverterString.dll
+C:\Users\leo-s\Documents\GitHub\testeB5S\InverterString\obj\Debug\netcoreapp3.1\InverterString.pdb
+C:\Users\leo-s\Documents\GitHub\testeB5S\InverterString\obj\Debug\netcoreapp3.1\InverterString.genruntimeconfig.cache
